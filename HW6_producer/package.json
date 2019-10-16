@@ -1,0 +1,14 @@
+{
+  "name": "hw6",
+  "version": "1.0.0",
+  "description": "A simple app for Node.JS using AWS SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.549.0"
+  }
+}
